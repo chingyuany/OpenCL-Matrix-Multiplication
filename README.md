@@ -7,6 +7,6 @@ The Execution_time_chart.PNG indiciates how the execution time change in the dif
 The result.txt is the output file of this program  
 
 Instruction for the installation  
-Step1: chmod +x oclc
-Step2:./oclc Matrix_opencl
-Step3:./Matrix_opencl block_size
+Step1: chmod +x oclc  
+Step2:  ./oclc Matrix_opencl  
+Step3:  ./Matrix_opencl block_size  
